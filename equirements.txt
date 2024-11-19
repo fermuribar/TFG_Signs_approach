@@ -1,0 +1,9 @@
+tkinter
+opencv-python
+numpy
+pillow
+scipy
+scikit-learn
+matplotlib
+pandas
+picamera2
